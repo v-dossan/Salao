@@ -1,0 +1,20 @@
+			Salão de Cabelereiro
+
+Donos: Administram o salão/ estoque/ funcionários, cortam cabelo e fazem agendamentos.
+Cabeleireireiros/manicure/esteticista:Trabalham no salão e fazem agendamentos.
+Ajudante: Auxilios gerais.
+Todos com Conhecimento Muito básico em informática.
+
+Atores do negócio:
+
+Clientes: Agendam horário por telefone
+Fornecedores: São contatados quando necessário.
+
+Descrição do negócio:
+Salão de cabeleireiro, com serviços de manicure e tratamentos estéticos.
+
+Atividades: Corte de cabelo, pintura, hidratação, escova, manicure, limpeza de pele.
+
+Regras: O horário a ser marcado deve estar de acordo com uma tabela de duração de cada procedimento e consultando diretamente o profissional a realizar o procedimento quando possível.
+A comissão de cada funcionário é individualmente diferenciada e tem porções fixas sobre o valor dos procedimentos.
+Estoque é consultado periódicamente para solicitar reposições.
